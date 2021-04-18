@@ -1,16 +1,22 @@
 {
-  "posts":[
+  "tasks": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
+      "id": 3767,
+      "text": "Test",
+      "day": "123",
+      "reminder": true
+    },
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "id": 420,
+      "text": "Cleaning",
+      "day": "April 25th 16pm",
+      "reminder": false
+    },
+    {
+      "id": 7531,
+      "text": "Studying",
+      "day": "right now!",
+      "reminder": true
     }
   ]
 }
